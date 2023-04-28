@@ -1,6 +1,6 @@
-# React js Master Detail CRUD with Asp.Net Web API
+# Food Maniaa CRUD with Asp.Net Web API
 
-React js Master Detail CRUD with Asp.Net Web API.
+Food Maniaa CRUD with Asp.Net Web API.
 
 
 Contents discussed :
